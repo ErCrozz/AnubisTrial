@@ -1,6 +1,6 @@
-# Crozz_Project
+# Anubi's Trial
 
-Unreal Engine 5.3 game project.
+An action adventure game built with Unreal Engine 5.3.
 
 ## Requirements
 
@@ -31,3 +31,7 @@ Unreal Engine 5.3 game project.
 ├── Content/        # Game assets (Characters, Weapons, Levels, etc.)
 └── Crozz_Project.uproject
 ```
+
+## License
+
+All rights reserved.
