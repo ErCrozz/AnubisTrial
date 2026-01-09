@@ -19,7 +19,7 @@ Unreal Engine 5.3 game project.
 
 1. Clone the repository with LFS:
    ```bash
-   git lfs clone https://github.com/USERNAME/Crozz_Project.git
+   git lfs clone https://github.com/ErCrozz/AnubisTrial.git
    ```
 
 2. Open `Crozz_Project.uproject` in Unreal Engine 5.3
